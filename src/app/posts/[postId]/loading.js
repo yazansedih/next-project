@@ -1,20 +1,16 @@
 export default function LoadingPostDetails() {
   return (
     <div
-      style={
-        {
-          // width: "70%",
-          // background: "white",
-          // padding: "20px",
-          // borderRadius: "10px",
-          // color: "black",
-          // margin: "20px auto",
-          // display: "flex",
-          // flexDirection: "column",
-          // alignItems: "center",
-          // boxShadow: "0 4px 12px rgba(0,0,0,0.1)",
-        }
-      }
+      style={{
+        padding: "20px",
+        borderRadius: "10px",
+        color: "black",
+        margin: "20px auto",
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        boxShadow: "0 4px 12px rgba(0,0,0,0.1)",
+      }}
     >
       <div
         style={{
